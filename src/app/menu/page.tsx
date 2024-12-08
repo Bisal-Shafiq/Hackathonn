@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Menu() {
   return (
   
-    <div>
+    <div className="bg-white">
         <div
   className="w-full p-10 bg-no-repeat bg-center flex justify-center"
   style={{
